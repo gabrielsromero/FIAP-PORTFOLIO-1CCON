@@ -1,0 +1,16 @@
+codigo;categoria;descricao;cep;numero;data_abertura
+A001;acessibilidade;Rampa da calçada quebrada;00120-020;800;2026-09-01
+L002;limpeza;Entulho na esquina;00140-010;300;2026-09-05
+I003;iluminacao;Praça sem luz;00140-030;500;2026-09-20
+A004;acessibilidade;Buraco na calçada;00120-030;55;2026-09-25
+C005;conservacao;Grade do parquinho solta;00130-040;1000;2026-10-10
+I006;iluminacao;Poste apagado;00110-040;120;2026-10-15
+A007;acessibilidade;Faixa de pedestre apagada;00130-010;15;2026-10-16
+I008;iluminacao;Poste piscando;00110-040;210;2026-10-20
+C009;conservacao;Banco da praça quebrado;00130-020;40;2026-10-28
+L010;limpeza;Bueiro entupido;00120-040;90;2026-11-01
+L011;limpeza;Lixo acumulado na calçada;00110-040;150;2026-11-05
+C012;conservacao;Alambrado da quadra rasgado;00140-020;260;2026-11-10
+L013;limpeza;Mato alto;00150-010;70;2026-11-12
+I013;iluminacao;Poste Piscando, baixa luminosidade no começo da rua.;00110-040;s/n;2026-11-19
+I014;iluminacao;Poste sem luz;00110-040;50;2026-11-19
